@@ -6,14 +6,14 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Pierwsza duszczowa</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Pierwsza duszczowa aplikacja która robi co chce :-)
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://duszczynski.pl" email="support@duszczynski.pl">
+        Duszcz duszczowy
     </author>
 
     <!--
